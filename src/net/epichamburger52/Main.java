@@ -25,7 +25,7 @@ public class Main {
         char ASingleCharecter ='a';     //stores a single charecter. can also include specual charecters
 
         String message ="Hello world";  //stores a sequence of charecters
-        String test = null; // means it is blank
+        String test = null; // means it is empty
 
 
 
